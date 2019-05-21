@@ -1,0 +1,6 @@
+Params:
+sensors = 1000
+t_p = 1 (s)
+radius = 7000 m
+size_x = 10000 (m)
+size_y = 10000 (m)
